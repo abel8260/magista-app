@@ -1,0 +1,27 @@
+*{
+	padding:0px;
+	margin:0px;  
+}
+
+html,body{
+	height:100%;
+}
+
+body{
+	background-color:black; 
+}
+
+#title-home{
+	width:90%;
+	margin-top: 3.2%; 
+	margin-left: 5%; 
+	margin-right: 5%;
+}
+
+#button{
+	width:70%;
+	margin-top:7.5%; 
+	margin-left: 15%; 
+	margin-right: 15%;
+	margin-bottom:5%; 
+}
