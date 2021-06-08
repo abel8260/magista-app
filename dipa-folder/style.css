@@ -1,0 +1,60 @@
+*{
+	padding:0px;
+	margin:0px;  
+}
+
+html,body{
+	height:100%;
+}
+
+body{
+	background-color:black; 
+}
+
+#title-home{
+	width:90%;
+	margin-top: 3.2%; 
+	margin-left: 5%; 
+	margin-right: 5%;
+}
+
+.feitio{
+	width:80%;
+	height:50%;
+	background-color: yellow; 
+	margin-left:10%; 
+	margin-right:10%;
+	margin-top:5%; 
+	margin-bottom:5%;  
+	border: 2px solid grey;  
+}
+
+.icon{
+	width:20%;
+	height:100%; 
+	background-color: red; 
+	float:left; 
+}
+.title-text{
+	width:80%;
+	height:100%; 
+	background-color: green; 
+	float:left; 
+}
+.title{
+	width:100%;
+	height:20%; 
+	background-color: green; 
+	float:left; 
+}
+.title-folder-image{
+	width:100%;
+	height:80%; 
+	background-color: blue; 
+ 
+}
+.image{
+	position: relative;
+	width:100%;
+	height:100%;
+} 
